@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV VelhaCap ( São Cristóvão-SE)
+https://srv3.zcast.com.br/cleto6155/cleto6155/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Tupi (Vera Cruz-Ba)
+https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal Rural (
+https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal do Criador(
+https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTV (Criciúma-SC)
+https://5b7f3c45ab7c2.streamlock.net/9014/9014/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kuriakos Cine (Portugal)
+http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Channel (São Paulo-SP)
+https://serv3.videovox.pw/alexandre4108/alexandre4108/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Web TV Cine (
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Wham Tv (São José-SC)
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Wham Tv Classic (São José-SC)
+https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Ibiapabana (São Benedito-CE)
+https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tela Viva (Rio de Janeiro-RJ)
+https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Jundiaí (Jundiai-SP)
+https://stmv3.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ORB TV (Nossa Senhora do Socorro-SE)
+https://srv1.zcast.com.br/antonio8877/antonio8877/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", NATURE TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Germana (Lagoa do Mato-MA)
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Guarujá
