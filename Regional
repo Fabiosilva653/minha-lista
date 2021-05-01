@@ -1,5 +1,19 @@
-
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", BS TV (Santos-SP)
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Elemental Channel ( São Paulo-SP)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Metrópole (Ourinhos-SP)
+https://stmv1.srvstm.com/tvmetropole/tvmetropole/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Soul TV (São Paulo-SP)
+https://5f1ce9c7dc62b.streamlock.net/soultv/soultv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Caraguá TV (Caraguatatuba-SP)
+https://5e837408ea907.streamlock.net:1936/CaraguaTV1/CaraguaTV1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Chroma (São Paulo-SP)
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Camara de Mogi Das Cruzes -SP
+https://5b01a3d32b65c.streamlock.net:1936/CMMC/CMMC/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Aish Tv Brasil (Cabo Frio-RJ)
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Tremembé (Itarema-CE)
