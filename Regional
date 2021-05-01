@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1", TV Camara Jacareí -SP
+http://179.109.16.5:1935/tvcamarajacarei/aovivo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Camara Campinas-SP
+https://5cf4a2c2512a2.streamlock.net/tvcamara/tvcamara/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Web Tv Katurra (Franca-SP)
+https://stmv1.livevoxtv.com.br/franca1/franca1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Sosite (Várzea Paulista-SP)
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", FMUTV ( São Paulo-SP)
+https://srv3.zcast.com.br/juliocesar4903/juliocesar4903/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv I ( Petropolis-RJ)
+https://596639ebdd89b.streamlock.net/8038/8038/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", BS TV (Santos-SP)
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Elemental Channel ( São Paulo-SP)
