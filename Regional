@@ -46,9 +46,9 @@ https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
 https://srv3.zcast.com.br/cleto6155/cleto6155/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Tupi (Vera Cruz-Ba)
 https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal Rural (
+#EXTINF:0 type="stream" channelId="-1", Canal Rural 
 https://5fa18afd2e74c.streamlock.net:443/live/smil:canalrural.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal do Criador(
+#EXTINF:0 type="stream" channelId="-1", Canal do Criador
 https://5fa18afd2e74c.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV (Criciúma-SC)
 https://5b7f3c45ab7c2.streamlock.net/9014/9014/playlist.m3u8
@@ -56,7 +56,7 @@ https://5b7f3c45ab7c2.streamlock.net/9014/9014/playlist.m3u8
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Channel (São Paulo-SP)
 https://serv3.videovox.pw/alexandre4108/alexandre4108/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Web TV Cine (
+#EXTINF:0 type="stream" channelId="-1", Web TV Cine 
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wham Tv (São José-SC)
 https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
@@ -197,8 +197,6 @@ https://cdn.jmvstream.com:443/w/AVJ-9074/playlist/chunklist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Jaguar (Limoeiro do Norte-CE)
 https://cdn.jmvstream.com:443/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
-
-
 #EXTINF:0 type="stream" channelId="-1", TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", SUL TV (Torres-RS)
@@ -243,8 +241,6 @@ https://5eaa6849d0971.streamlock.net:443/tvmaisnordestetv/tvmaisnordestetv/chunk
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV C Rio
 http://142.93.61.194:8080/hls/live.stream.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal do Criador(
-https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Web Agrotour(Porto Alegre-RS)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV A Cara da Bahia(Salvador-BA)
