@@ -1,18 +1,63 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1", TV Camara Jacareí -SP
-http://179.109.16.5:1935/tvcamarajacarei/aovivo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Camara Campinas-SP
-https://5cf4a2c2512a2.streamlock.net/tvcamara/tvcamara/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Web Tv Katurra (Franca-SP)
-https://stmv1.livevoxtv.com.br/franca1/franca1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", 1001 Noites https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
+#EXTINF:0 type="stream" channelId="-1", 40 graus
+https://cdn.cdnseguro.com:443/40graustv/40graustv/chunklist_w1977651862.m3u8
+#EXTINF:0 type="stream" channelId="-1", Agro +
+https://evpp.mm.uol.com.br:443/geob_band/agromais/chunklist_w1149972961.m3u8
+#EXTINF:0 type="stream" channelId="-1", Agro Brasil Tv
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/chunklist_w1032780318.m3u8
+#EXTINF:0 type="stream" channelId="-1", Aish Tv Brasil (Cabo Frio-RJ)
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ALL Sports
+https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w617757995.m3u8
+#EXTINF:0 type="stream" channelId="-1", All TV
+https://cdn.jmvstream.com:443/w/AVJ-9086/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Alpha TV
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Araguaia TV
+http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ASBC
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CoMEPK26G182qEAR1pd-hgYaz9rAfu2oSgxOui2PBQaKu74sfg4tGld2YMF5LuB6psOkjQyPwbVsEpevkKCmvuTTWitOYvK_GRqJRtg3Mo7L4FGT2MODvCSmSRFATfrarI-BeiDi-GSAnEzTvsVJpmd5fHtfihpu9tli7zMVguVmTFEbYSU9TW341nWpQoB3tZArFr4ydAenHr_j87mDX2tbwn5UbuJ0XeINw6TtPtorhS00TdHTDBaEm_OPjDubElnJCz2qJh_rh4ajwCBYBmFAxYK8qgKadH8R5TdsZ7QkPywabjmdgyBEF3n3hmUGkON_Z-eJUp-RtKHnGArsLSfEQfHdzs8uklZ7o834ylrXRQcSIY5hqGdFitai09OjDgbGIPw5-cmDlKwzCxGjq4lIxSfdgxOCpL1L66dULTy2YmzqICMGufGHMuCNrp2bolv_tC185Bz44LcpHFVsdDQTw_xt1VRg_pLlcTjeo1SqjAhfx-X9mn2zFbAL_1aIN_wlLcS4atazC8nkngPkWrqkHAMllPyh4pqHQzhcbS5CKmLXYgd-TN4rlE7CZn5RFMQg1mUv-qQzsB-rBQ2B10YXkM5pexn_Z61ka5ohAeLa1cNUp8hicK4prlZbd_NJSAJ-82VbkSJWFBOcj24ENXh7u4kLdPkuspmka6OKyfy6G3E77SQSEC6IB_DYHZLPETAYhxmvU3saDLhm2nmrDQyXviI64Q.m3u8
+#EXTINF:0 type="stream" channelId="-1", BAH TV
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bem TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Boa Vontade TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1591496708/ei/pPvbXt2gG4TAxQTE2rmgAQ/ip/2804:431:cffc:abde:844b:7c6:9500:911b/id/6DmUXRosnm0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r14---sn-8p8v-bg0k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3440/mh/GJ/mm/44/mn/sn-8p8v-bg0k/ms/lva/mv/m/mvi/13/pcm2cms/yes/pl/47/dover/11/keepalive/yes/mt/1591475121/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgISK-g9lp-6AqX08MH9VeccTCj1Kareql4CkLY64TO14CIQC3zw6ZHMCbE-_LxrWA4WlI-Zj7bo1KS26Z0edsgspTRg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAO_fqYyjjkKrjF8qr6_yTrDHYFHH9svOCUFcmzwDqnyMAiEA-pbSa8oRtu6anR6_Tgw7r0AX62BYgowgBH8SuOTw8mU%3D/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bons Tempos TV (Várzea da Roça-BA)
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BraziTV
+https://oj7lng29dg82-hls-live.5centscdn.com:443/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", BS TV (Santos-SP)
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", C TV
+https://5d2c98775bafe.streamlock.net:443/cariritv/cariritv/chunklist_w51420913.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 10 (Foz do Iguaçu-PR)
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w51394447.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 10 (Fernandópolis-SP)
+http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w814947861.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 25 (Jundiaí-SP)
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 29 ( São Paulo-SP)
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w543009287.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="-1", TV Camara Jacareí -SPhttp://179.109.16.5:1935/tvcamarajacarei/aovivo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Camara Campinas-SPhttps://5cf4a2c2512a2.streamlock.net/tvcamara/tvcamara/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Web Tv Katurra (Franca-SP)https://stmv1.livevoxtv.com.br/franca1/franca1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sosite (Várzea Paulista-SP)
 http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", FMUTV ( São Paulo-SP)
 https://srv3.zcast.com.br/juliocesar4903/juliocesar4903/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv I ( Petropolis-RJ)
 https://596639ebdd89b.streamlock.net/8038/8038/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", BS TV (Santos-SP)
-https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Elemental Channel ( São Paulo-SP)
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Metrópole (Ourinhos-SP)
@@ -26,8 +71,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Camara de Mogi Das Cruzes -SP
 https://5b01a3d32b65c.streamlock.net:1936/CMMC/CMMC/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", Aish Tv Brasil (Cabo Frio-RJ)
-https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Tremembé (Itarema-CE)
 https://5e36c064a2f6a.streamlock.net:1936/8380/8380/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV TSPB (João Pessoa-PB)
@@ -130,8 +173,6 @@ https://v3.ciclano.io:1443/radioejurua/_definst_/radioejurua/chunklist_w11983579
 https://5a1c76baf08c0.streamlock.net:443/z438-live/stream/chunklist_w1967748454.m3u8
 #EXTINF:0 type="stream" channelId="-1", Loading (São Paulo)
 https://aws-br.cdn.booyah.live:443/hls/1000007/34850987_1080.m3u8
-#EXTINF:0 type="stream" channelId="-1", Bons Tempos TV (Várzea da Roça-BA)
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Naza
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mega Cine
@@ -158,8 +199,6 @@ https://5b7f3c45ab7c2.streamlock.net:443/8158/8158/chunklist_w1605427077.m3u8
 https://cdn.jmvstream.com:443/w/AVJ-9028/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mar Rio Grande
 https://59f2354c05961.streamlock.net:1443/tvmarrg/_definst_/tvmarrg/chunklist_w1358524938.m3u8
-#EXTINF:0 type="stream" channelId="-1", Araguaia TV
-http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", SBT Interior (São José do Rio Preto-SP)
 https://5a1c76baf08c0.streamlock.net:443/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w1245474555.m3u8
@@ -457,8 +496,6 @@ https://stmv1.srvstm.com/classique2/classique2/playlist.m3u8
 https://srv4.zcast.com.br:443/tvteennet/tvteennet/chunklist_w2067779850.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Recreio
 https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Bem TV
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Pantanal 22
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Difusora Sul
@@ -582,8 +619,6 @@ https://stmv1.srvstm.com:443/diegodemenezes3156/diegodemenezes3156/chunklist_w88
 http://ott.al.rs.gov.br/stream01/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Assembléia Ceará
 https://jjn5dkk9bd.zoeweb.tv:443/z404-live/stream/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", ALL Sports
-https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w617757995.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", TV Sonora
 https://cdn.jmvstream.com/w/LVW-8600/LVW8600_dPUj47PQ9P/playlist.m3u8
@@ -605,8 +640,6 @@ http://200.189.113.201/hls/tve.m3u8
 https://livefocamundo.com:8081/8162/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Capital 777
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Agro +
-https://evpp.mm.uol.com.br:443/geob_band/agromais/chunklist_w1149972961.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lual TV
 https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", GV News
@@ -645,8 +678,6 @@ https://video01.kshost.com.br:443/sebastiao6150/sebastiao6150/chunklist_w2114417
 https://streaming03.zas.media/panorama/panorama/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Estação Minas
 https://livefocamundo.com:8081/8042/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", 1001 Noites 
-https://cdn.jmvstream.com:443/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Grande ABC
 https://cdn.jmvstream.com/w/AVJ-9104/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV  C Petrópolis
@@ -683,8 +714,6 @@ https://stmv4.srvstm.com/wladimyr5849/wladimyr5849/playlist.m3u8
 https://5abdf4edae5bf.streamlock.net:443/tvserradosbrindestvstation/tvserradosbrindestvstation/chunklist_w94400291.m3u8
 #EXTINF:0 type="stream" channelId="-1", Web TV Juventude
 https://stmv1.srvif.com/valmir9734/valmir9734/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Alpha TV
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TBC
 https://cdn.jmvstream.com:443/w/LVW-8765/LVW8765_5Jt1nT4fUj/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nova Onda
@@ -701,8 +730,6 @@ https://22722d.ha.azioncdn.net:443/hls/STsEBCLIVE_1080/index.m3u8
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="MZ" tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="Religious;Undefined",TV Maná Moçambique
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1", Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w543009287.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Carajás
 https://streaming.ligue.tv.br:5443/LiveApp/streams/Carajas.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Paraná Turismo
@@ -722,8 +749,6 @@ https://evpp.mm.uol.com.br:443/band_live/terraviva/chunklist_w1164063459.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mkk TV https://59f2354c05961.streamlock.net:1443/mkkweb/_definst_/mkkweb/chunklist_w554940636.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w282804386.m3u8
-#EXTINF:0 type="stream" channelId="-1", All TV
-https://cdn.jmvstream.com:443/w/AVJ-9086/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal da Pecuária
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/chunklist_w866067172.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fonte TV
@@ -742,14 +767,10 @@ https://cdn.jmvstream.com:443/w/AVJ-9099/playlist/chunklist.m3u8
 https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/chunklist_w1822669396.m3u8
 #EXTINF:0 type="stream" channelId="-1", FCV (Rede  Minas)
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1847745068.m3u8
-#EXTINF:0 type="stream" channelId="-1", Boa Vontade TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1591496708/ei/pPvbXt2gG4TAxQTE2rmgAQ/ip/2804:431:cffc:abde:844b:7c6:9500:911b/id/6DmUXRosnm0.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r14---sn-8p8v-bg0k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3440/mh/GJ/mm/44/mn/sn-8p8v-bg0k/ms/lva/mv/m/mvi/13/pcm2cms/yes/pl/47/dover/11/keepalive/yes/mt/1591475121/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgISK-g9lp-6AqX08MH9VeccTCj1Kareql4CkLY64TO14CIQC3zw6ZHMCbE-_LxrWA4WlI-Zj7bo1KS26Z0edsgspTRg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAO_fqYyjjkKrjF8qr6_yTrDHYFHH9svOCUFcmzwDqnyMAiEA-pbSa8oRtu6anR6_Tgw7r0AX62BYgowgBH8SuOTw8mU%3D/playlist/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", STV (Moçambique)
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:0 type="stream" channelId="-1", TV Boas Novas
 https://cdn.jmvstream.com:443/w/LVW-8326/LVW8326_yo99Mzc7qZ/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", BraziTV
-https://oj7lng29dg82-hls-live.5centscdn.com:443/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Novo Tempo
 https://stream.live.novotempo.com:443/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 #EXTINF:0 type="stream" channelId="-1", CATVE (Cultura)
@@ -795,8 +816,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/ch
 http://stmv1.ifantasy.com.br/washington/washington/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", VinTV
 https://5b7f3c45ab7c2.streamlock.net:443/8044/ngrp:8044/chunklist_w49700036_b2007040.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 10
-http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w51394447.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVV
 http://tv.tvalphanet.com.br:1935/tvvotorantim/tvvotorantim/chunklist_w966004712.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Master
@@ -845,8 +864,6 @@ https://59f2354c05961.streamlock.net:1443/kcepatv/_definst_/kcepatv/chunklist_w5
 https://video01.kshost.com.br:443/fabio8255/fabio8255/chunklist_w810770665.m3u8
 #EXTINF:0 type="stream" channelId="-1", Joaçaba TV
 http://tv01.logicahost.com.br:1935/joacaba/_definst_/joacaba/chunklist_w1982248720.m3u8
-#EXTINF:0 type="stream" channelId="-1", C TV
-https://5d2c98775bafe.streamlock.net:443/cariritv/cariritv/chunklist_w51420913.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Centro  Sul
 https://novo.bitstreaming.info/tvcentrosultvstation/tvcentrosultvstation/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Camocim
@@ -903,8 +920,6 @@ https://5b7f3c45ab7c2.streamlock.net:443/8158/8158/chunklist_w49356798.m3u8
 https://5c5f323a5b8a8.streamlock.net:9443/playermapp/_definst_/tvuniverso862897120/chunklist_w735958391.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Paulistana 
 https://5a7bcfb834235.streamlock.net:443/zw9011/zw9011/chunklist_w2064307043.m3u8
-#EXTINF:0 type="stream" channelId="-1", Agro Brasil Tv
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/chunklist_w1032780318.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Poços
 https://live.cdn.upx.com:443/00084/myStream.sdp/chunklist.m3u8?9d5de4790fa4a9212d0bfcb7881f90d6
 #EXTINF:0 type="stream" channelId="-1", Rede União 
@@ -915,8 +930,6 @@ https://cdn.jmvstream.com:443/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/chunklist_b
 https://video01.kshost.com.br:443/cypriano46326/cypriano46326/chunklist_w2132801422.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidade Verde
 http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w660225672.m3u8
-#EXTINF:0 type="stream" channelId="-1", ASBC
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CoMEPK26G182qEAR1pd-hgYaz9rAfu2oSgxOui2PBQaKu74sfg4tGld2YMF5LuB6psOkjQyPwbVsEpevkKCmvuTTWitOYvK_GRqJRtg3Mo7L4FGT2MODvCSmSRFATfrarI-BeiDi-GSAnEzTvsVJpmd5fHtfihpu9tli7zMVguVmTFEbYSU9TW341nWpQoB3tZArFr4ydAenHr_j87mDX2tbwn5UbuJ0XeINw6TtPtorhS00TdHTDBaEm_OPjDubElnJCz2qJh_rh4ajwCBYBmFAxYK8qgKadH8R5TdsZ7QkPywabjmdgyBEF3n3hmUGkON_Z-eJUp-RtKHnGArsLSfEQfHdzs8uklZ7o834ylrXRQcSIY5hqGdFitai09OjDgbGIPw5-cmDlKwzCxGjq4lIxSfdgxOCpL1L66dULTy2YmzqICMGufGHMuCNrp2bolv_tC185Bz44LcpHFVsdDQTw_xt1VRg_pLlcTjeo1SqjAhfx-X9mn2zFbAL_1aIN_wlLcS4atazC8nkngPkWrqkHAMllPyh4pqHQzhcbS5CKmLXYgd-TN4rlE7CZn5RFMQg1mUv-qQzsB-rBQ2B10YXkM5pexn_Z61ka5ohAeLa1cNUp8hicK4prlZbd_NJSAJ-82VbkSJWFBOcj24ENXh7u4kLdPkuspmka6OKyfy6G3E77SQSEC6IB_DYHZLPETAYhxmvU3saDLhm2nmrDQyXviI64Q.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVM
 https://video01.kshost.com.br:443/portalmidia/portalmid
 #EXTINF:0 type="stream" channelId="-1", TV Candidés
@@ -939,8 +952,6 @@ https://stmv1.ifantasy.com.br/webtv/webtv/playlist.m3u8?wowzasessionid=711617092
 https://59f2354c05961.streamlock.net:1443/tvbauru/_definst_/tvbauru/chunklist_w1087947453.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVN
 http://wz3.dnip.com.br:80/tvnbrasil/tvnbrasil.sdp/chunklist_w2044144453.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 25
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", Classique TV
 https://stmv3.srvstm.com/classique/classique/playlist.m3u8?wowzasessionid=933280901
 #EXTINF:0 type="stream" channelId="-1", Conect TV
@@ -989,8 +1000,6 @@ https://novo.bitstreaming.info:443/8278/8278/chunklist_w662463481.m3u8
 https://596639ebdd89b.streamlock.net:443/8130/8130/chunklist_w1260387485.m3u8
 #EXTINF:0 type="stream" channelId="-1", CSP
 http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/chunklist_w623249614.m3u8
-#EXTINF:0 type="stream" channelId="-1", 40 graus
-https://cdn.cdnseguro.com:443/40graustv/40graustv/chunklist_w1977651862.m3u8
 #EXTINF:0 type="stream" channelId="-1", TCM
 http://live.tcm10.com.br/tcm10.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Tuba
@@ -1002,10 +1011,6 @@ https://5abdf4edae5bf.streamlock.net:443/tvarthdtv/tvarthdtv/chunklist_w21196116
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1229479860.m3u8
-#EXTINF:0 type="stream" channelId="-1", BAH TV
-https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 10
-http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w814947861.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Mar
 https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1587324758.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Osasco
@@ -1120,3 +1125,5 @@ https://tv.bitstreaming.info:1936/redetvsultvstation/redetvsultvstation/chunklis
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Terceira Via
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+
+
